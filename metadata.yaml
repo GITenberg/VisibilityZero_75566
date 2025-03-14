@@ -1,0 +1,30 @@
+_repo: VisibilityZero_75566
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stearns, Myron M. (Myron Morris)
+    aliases:
+    - Stearns, Myron Morris
+    - Amid, John
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '54509'
+    url: http://www.gutenberg.org/2009/agents/54509
+description: ''
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75566'
+language: en
+pgterms:marc905: 20250306074234amid
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Visibility—Zero
+url: http://www.gutenberg.org/ebooks/75566
